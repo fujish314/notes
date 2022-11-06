@@ -41,15 +41,15 @@ title: 151. XYZ
 - [質量分析](https://ja.wikipedia.org/wiki/%E8%B3%AA%E9%87%8F%E5%88%86%E6%9E%90%E6%B3%95)
 - 衝突マス
 - Eリング
-- decadal survey from NASA
+- [decadal survey from NASA](https://vimeo.com/703812332?embedded=true&source=vimeo_logo&owner=2718555)
 - 高速衝突実験装置
 - [ISS](https://www.nasa.gov/mission_pages/station/main/index.html)
 - アストロバイオロジーの三大研究 … 生命の起源、生命の分布、人類の宇宙進出
 - 東大の工藤先生
-- 全自動メダカ飼育装置
-- 宇宙メダカの論文？
+- [全自動メダカ飼育装置](https://newswitch.jp/p/5544)
+- [宇宙メダカの骨量減少メカニズムに関連した論文](https://www.titech.ac.jp/news/2015/032228)
 - 宇宙メダカ選抜テスト
-- 某ショット ... 人類は月には何年前に到達したんだっけ？
+- ブレイクスルースターショット ... 人類は月には何年前に到達したんだっけ？
 - [ケンタウルス座アルファ星](https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%82%BF%E3%82%A6%E3%83%AB%E3%82%B9%E5%BA%A7%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E6%98%9F)
 - [ブレイクスルー財団](https://breakthroughprize.org/Board)
 - [鉛の板](https://www.env.go.jp/chemi/rhm/h28kisoshiryo/h28kiso-01-03-08.html)
@@ -62,12 +62,12 @@ title: 151. XYZ
 - [Andy Weir](https://andyweirauthor.com/)
 - [過塩素酸](https://ja.wikipedia.org/wiki/%E9%81%8E%E5%A1%A9%E7%B4%A0%E9%85%B8)
 - [Soda Lakes](https://en.wikipedia.org/wiki/Soda_Lakes)
-- 過塩素酸入り培地で育つ微生物
+- [過塩素酸入り培地で育つ微生物](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/earth-analogues-for-past-and-future-life-on-mars-isolation-of-perchlorate-resistant-halophiles-from-big-soda-lake/F05005A274DC403138403A122AE95273)
 - ATGCU ... DNA/RNAの塩基
 - 鏡像異性体の回
 - [鏡像異性体は味がするのか？](https://www.jstage.jst.go.jp/article/kagakutoseibutsu1962/12/3/12_3_189/_pdf)
 - [ラセミ化](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%BB%E3%83%9F%E5%8C%96)
-- 深海の微生物にはラセマーゼが多い
+- [深海の微生物はラセマーゼを利用している](https://www.jamstec.go.jp/j/about/press_release/20160421/)
 - [ホモキラル](https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%A2%E3%82%AD%E3%83%A9%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC)
 - ヘテロキラル
 - EBI
@@ -75,10 +75,10 @@ title: 151. XYZ
 - タンパク質の配列空間
 - [ふじしまさんが載っているJAXAの宇宙飛行士募集ページ](https://astro-mission.jaxa.jp/astro_selection/) ... 「宇宙飛行士に転職だ」
 - [宇宙飛行士選抜テスト](https://astro-mission.jaxa.jp/astro_selection/)
-- こまささん … 藤島さんのお友達
-- ふじしさんと大西宇宙飛行士との対談
+- こまささん … 藤島さんのお友達 
+- [ふじしさんと大西宇宙飛行士との対談](https://www.youtube.com/watch?v=HvZJpVwKlK4)
 
 ## Editorial Notes
-- (fujishi)
+- 色々なトピックに飛び火しながら、好き勝手におしゃべりさせてもらって幸せなひとときをありがとう笑。まだまだ話したいことが沢山あるよ(fujishi)
 - 実は今回は高校生の皆さんにリーチするという野望があったのですが、届いたのだろうか・・・(coela)
 - (tadasu)
