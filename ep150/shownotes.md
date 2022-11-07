@@ -21,7 +21,7 @@ title: 150. XYZ
 - アストロバイオロジー ... 宇宙生物学
 - [アストロバイオロジー　米国航空宇宙局（NASA）エクソバイオロジーとアストロバイオロジーの歴史](https://astrobiology.nasa.gov/uploads/filer_public/02/c5/02c5c11f-046a-4607-a5f4-44377c3e74e4/issue7japanesefirstedition_elsi_med.pdf) ... アストロバイオロジーの説明漫画
 - [NASA](https://www.nasa.gov/)
-- [ESLI](https://www.elsi.jp/)
+- [ELSI](https://www.elsi.jp/)
 - [SFC](https://www.sfc.keio.ac.jp/) ... 慶應義塾大学湘南藤沢キャンパス
 - [冨田勝](https://ja.wikipedia.org/wiki/%E5%86%A8%E7%94%B0%E5%8B%9D)
 - [金井明夫](https://researchmap.jp/read0116105)
@@ -62,7 +62,7 @@ title: 150. XYZ
 - [はやぶさ](https://www.isas.jaxa.jp/missions/spacecraft/past/hayabusa.html)
 - pre-biotic chemistry
 - [ユーリー・ミラーの実験](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%AA%E3%83%BC-%E3%83%9F%E3%83%A9%E3%83%BC%E3%81%AE%E5%AE%9F%E9%A8%93)
-- 液体の二酸化炭素
+- [深海の液体二酸化炭素](https://www.youtube.com/watch?v=yQvzjRGv9Rk)
 - デカフェ
 - [ハーデース](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%87%E3%83%BC%E3%82%B9) ... ギリシャ神話は聖闘士星矢とFGOで勉強しました by coela
 - 外惑星
@@ -76,14 +76,14 @@ title: 150. XYZ
 - [高井研](https://ja.wikipedia.org/wiki/%E9%AB%98%E4%BA%95%E7%A0%94) ... 大尊敬する大先生
 - [ケプラーミッション](https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%97%E3%83%A9%E3%83%BC_(%E6%8E%A2%E6%9F%BB%E6%A9%9F))
 - [ハッブル](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%83%96%E3%83%AB%E5%AE%87%E5%AE%99%E6%9C%9B%E9%81%A0%E9%8F%A1)
-- [ウェッブ](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%A0%E3%82%BA%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%83%E3%83%96%E5%AE%87%E5%AE%99%E6%9C%9B%E9%81%A0%E9%8F%A1)
+- [ジェイムズ・ウェッブ宇宙望遠鏡](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%A0%E3%82%BA%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%83%E3%83%96%E5%AE%87%E5%AE%99%E6%9C%9B%E9%81%A0%E9%8F%A1)
 - [Craig Venter](https://www.jcvi.org/about/j-craig-venter)
 - [Mycoplasma laboratorium](https://en.wikipedia.org/wiki/Mycoplasma_laboratorium)
-- ファインマンの言葉
+- [ファインマンの言葉](https://gigazine.net/news/20170701-explain-understand/)
 - [Synthetic Biology](https://en.wikipedia.org/wiki/Synthetic_biology)
 - [アストロバイオロジーキャンプ](https://sites.google.com/view/keio-astrobiology-camp)
 
 
 ## Editorial Notes
-- (fujishi)
+- どんどん話題が移り変わっていく感じで自由に話すことができて非常に楽しかったです。若年リスナーの好奇心を少しでも刺激できているといいな(fujishi)
 - 藤島さん出演ありがとうございます！！！ロマンがある話がたくさんできて楽しかったです。(coela)
