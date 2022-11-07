@@ -72,7 +72,7 @@ title: 150. XYZ
 - [JAMSTEC](https://www.jamstec.go.jp/e/)
 - [しんかい6500](https://www.jamstec.go.jp/shinkai6500/)
 - [アスガルド古細菌](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%82%AC%E3%83%AB%E3%83%89%E5%8F%A4%E7%B4%B0%E8%8F%8C)
-- 井町さん
+- [井町さん達とアスガルド古細菌のサイドストーリー](https://www.jstage.jst.go.jp/article/jsmeja/36/1/36_37/_pdf)
 - [高井研](https://ja.wikipedia.org/wiki/%E9%AB%98%E4%BA%95%E7%A0%94) ... 大尊敬する大先生
 - [ケプラーミッション](https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%97%E3%83%A9%E3%83%BC_(%E6%8E%A2%E6%9F%BB%E6%A9%9F))
 - [ハッブル](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%83%96%E3%83%AB%E5%AE%87%E5%AE%99%E6%9C%9B%E9%81%A0%E9%8F%A1)
