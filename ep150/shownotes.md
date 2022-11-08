@@ -21,7 +21,7 @@ title: 150. XYZ
 - アストロバイオロジー ... 宇宙生物学
 - [アストロバイオロジー　米国航空宇宙局（NASA）エクソバイオロジーとアストロバイオロジーの歴史](https://astrobiology.nasa.gov/uploads/filer_public/02/c5/02c5c11f-046a-4607-a5f4-44377c3e74e4/issue7japanesefirstedition_elsi_med.pdf) ... アストロバイオロジーの説明漫画
 - [NASA](https://www.nasa.gov/)
-- [ELSI](https://www.elsi.jp/)
+- [東工大・地球生命研究所(ELSI)](https://www.elsi.jp/)
 - [SFC](https://www.sfc.keio.ac.jp/) ... 慶應義塾大学湘南藤沢キャンパス
 - [冨田勝](https://ja.wikipedia.org/wiki/%E5%86%A8%E7%94%B0%E5%8B%9D)
 - [金井明夫](https://researchmap.jp/read0116105)
@@ -66,7 +66,7 @@ title: 150. XYZ
 - デカフェ
 - [ハーデース](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%87%E3%83%BC%E3%82%B9) ... ギリシャ神話は聖闘士星矢とFGOで勉強しました by coela
 - 外惑星
-- 宇宙港
+- [宇宙港]()
 - [JAXA](https://global.jaxa.jp/)
 - 超臨界
 - [JAMSTEC](https://www.jamstec.go.jp/e/)
